@@ -1,0 +1,38 @@
+{
+  "name": "Tohoku Drone Flight Log",
+  "version": "0.3.0",
+  "components": {
+    "server": "0.3.0",
+    "macOS": "0.3.0",
+    "android": "0.2.4",
+    "android_version_code": 7
+  },
+  "source_repository": "https://github.com/tohoku-drone/Tohoku_Drone_Flight_Log",
+  "release_repository": "https://github.com/tohoku-drone/Tohoku_Drone_Flight_Log_Update",
+  "database_schema": 8,
+  "telemetry_decoder_revision": 3,
+  "macOS": {
+    "architecture": "arm64",
+    "minimum_version": "11.0",
+    "signing": "ad-hoc",
+    "notarized": false
+  },
+  "android": {
+    "application_id": "jp.tohokudrone.flightlog.sync",
+    "minimum_sdk": 23,
+    "signing": "development certificate"
+  },
+  "source_commit": "f063df84599ada818b72a932776cb4e35698edc3",
+  "assets": [
+    {
+      "name": "Tohoku-Drone-Flight-Log-Sync-0.2.4.apk",
+      "size": 132058,
+      "sha256": "1d32a73d82496055e24354025dd474a7c210e1c5b9aeb24f793523fa65252541"
+    },
+    {
+      "name": "Tohoku-Drone-Flight-Log-macOS-arm64-0.3.0.zip",
+      "size": 4074745,
+      "sha256": "62d06b736e88a059e570f2985cdec93f5679f3155a561680089f97bbc1ec4b78"
+    }
+  ]
+}
