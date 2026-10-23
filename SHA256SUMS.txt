@@ -1,3 +1,4 @@
+416e74c8ae761049343dee93ba57a55506ceb5d5b0de37915b5ab405ce88613f  Tohoku-Drone-Flight-Log-Linux-server-0.3.2.tar.gz
 1d32a73d82496055e24354025dd474a7c210e1c5b9aeb24f793523fa65252541  Tohoku-Drone-Flight-Log-Sync-0.2.4.apk
-62d06b736e88a059e570f2985cdec93f5679f3155a561680089f97bbc1ec4b78  Tohoku-Drone-Flight-Log-macOS-arm64-0.3.0.zip
-7dd816628ce43ab70e03f290b084559647a25c0e78876a4231911968236cfc97  release-metadata.json
+b3d2aea6ce6fa1cb25468fa59c7b22398a502fc1376906ae408f3c1a1fa46de6  Tohoku-Drone-Flight-Log-macOS-arm64-0.3.2.zip
+f8ccbf9d5042bfbe88084c45020c6a020870dd7ffc53bd09eaaa47a0e39d7b9c  release-metadata.json
