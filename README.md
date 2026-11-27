@@ -1,7 +1,11 @@
-# Tohoku Drone Flight Log Releases
+# ソラトレース
 
-Mac版アプリ・Android同期アプリ・Linuxサーバーの配布リポジトリです。
+飛行ログとチェックリストを管理する、東北ドローンのアプリです。Mac・Windows・Android版を配布しています。
 
-[最新版をダウンロード](https://github.com/tohoku-drone/Tohoku_Drone_Flight_Log_Update/releases/latest)
+[最新版の配布ページ](https://github.com/tohoku-drone/Tohoku_Drone_Flight_Log_Update/releases/latest)
 
-アプリのメタデータと開発用ソースは非公開の [Tohoku_Drone_Flight_Log](https://github.com/tohoku-drone/Tohoku_Drone_Flight_Log) で管理します。Linuxサーバー配布には実行に必要なソースと導入手順を含みます。飛行記録・データベース・認証キーは含みません。
+PC版はアプリ内の更新表示からダウンロード・適用・再起動できます。Android 0.4.0以降は、設定の「アプリの更新を確認」からアプリ内でダウンロードし、Android標準のインストール確認へ進めます。
+
+以前の「Tohoku Drone Flight Log」から名称とアイコンを変更しました。アカウント・データ・更新先は引き継ぎます。旧版からの自動更新に対応するため、配布ファイル名には従来の名称が残る場合があります。
+
+この公開リポジトリはアプリの配布専用です。開発用ソース、Linuxサーバーのコードおよび配布物は非公開リポジトリで管理します。飛行記録・データベース・認証キーは公開しません。
